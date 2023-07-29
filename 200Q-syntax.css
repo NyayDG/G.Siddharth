@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    font-size: 2rem;
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
@@ -23,7 +24,12 @@ body {
     display: flex;
     align-items: center;
   }
-  
+
+  .adv-image {
+    width: 70%;
+  }
+
+
   label {
     margin-right: 10px;
   }
